@@ -1,7 +1,8 @@
 package = "lua-resty-keycloak"
 version = "0.1.0-0"
 source = {
-    url = 'file://.'
+    url = 'git://github.com/nokia/kong-oidc'
+    tag = "1.0.1"
 }
 description = {
     summary = "",
